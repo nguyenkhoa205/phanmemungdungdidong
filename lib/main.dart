@@ -5,9 +5,5 @@ void main(){
 
   print('Sinh viên $hoTen, $tuoi');
   print ('GPA: ${gpa.toStringAsFixed(2)}, xếp loại: ${gpa >= 3.6 ? "Xuất sắc" : "Giỏi"}');
-  String moTa = '''
-    Chuỗi nhiều dòng
-    dùng ba dấu nháy.
-  ''';
-  String duongDan = r'C:\Users\nguyen\file.txt';
+  
 }
